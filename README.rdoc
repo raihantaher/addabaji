@@ -1,5 +1,8 @@
 == README
 
+App Name: Addabaji
+Developed by Raihan Taher
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
